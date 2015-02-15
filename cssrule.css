@@ -132,3 +132,43 @@ body {
   text-decoration : none;
   display : block;
  }
+ #footer {
+  background-color : white;
+  height : 282px;
+  width : 100%;
+ }
+ #sitemap {
+  width : 1000px;
+ }
+ #col1 {
+  float : left;
+  height : 164px;
+  width : 350px;
+ }
+ #col1 ul {
+  padding : 20px 0px 0px 150px;
+ }
+ #col1 ul li {
+  padding : 5px 0px 0px 0px;
+  list-style : none;
+ }
+ #col1 ul li a {
+  color : gray;
+  text-decoration : none;
+ }
+ #col2 {
+  
+  height : 164px;
+  width : 350px;
+ }
+ #col2 ul {
+  padding : 20px 0px 0px 150px;
+ }
+ #col2 ul li {
+  padding : 5px 0px 0px 0px;
+  list-style : none;
+ }
+ #col2 ul li a {
+  color : gray;
+  text-decoration : none;
+ }
