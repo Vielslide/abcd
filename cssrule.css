@@ -73,6 +73,7 @@ body {
 }
 #content {
  background-image : url("images/hero.jpg");
+ background-size : cover;
  height : 750px;
  width : 100%;
 }
@@ -168,6 +169,50 @@ body {
   padding : 5px 5px;
   text-align : justify;
  }
+ #content4 {
+ background-color : #E0DFDB;
+ height : 750px;
+ width : 100%;
+ }
+ #content4 h1{
+  float :  ;
+  width : 300px
+  font-size : 50px;
+  padding : 40px 0px 0px 100px;
+  color : black;
+  }
+ #aa {
+  float : right ;
+  background-color : ;
+  height : 30px;
+  width : 150px;
+  margin-right : 30px;
+  border : 2px solid white; 
+ }
+ #aa h5 {
+  color : white;
+  padding : 8px 0px 0px 25px;
+ }
+#content4 ul li {
+ background-color : ;
+ list-style : none;
+ float : left;
+}
+.img {
+ background-color : ;
+ height : 283px;
+ width : 281px;
+ margin-left : 30px ;
+ margin-top : 30px;
+}
+#content4 ul li img {
+ padding-left : 50px ;
+ height : 223px;
+ width : 170px;
+}
+.imgd {
+ 
+}
  #engagement {
   background-color : black;
   width : 100%;
